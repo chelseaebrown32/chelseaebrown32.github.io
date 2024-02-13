@@ -1,0 +1,4 @@
+SELECT *
+FROM benn.us_city_population
+ORDER BY NAME
+LIMIT 100
